@@ -141,9 +141,6 @@ function getName(person) {
  * passing in [ 'orange', 'grape', 'apple', 'banana', 'mango' ] as the argument,
  * the returned value should be: 2.
 */
-function appleIndex(/* code here */) {
-  /* code here */
-}
 
 function appleIndex(array){
   return array.indexOf('apple');
